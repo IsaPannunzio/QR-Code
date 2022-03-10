@@ -7,4 +7,4 @@ Essa aplicação é um código para gerar um QR Code.
 * Python
 
 # Como Executar a Aplicação
-* Execute o programa através de uma IDE. Com o comando "python qrcode.py" no terminal, o QR Code não é gerado.
+Execute o programa através de uma IDE.
